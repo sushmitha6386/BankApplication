@@ -1,0 +1,4 @@
+My Deposit Transaction! Customer Info - Account Number: Sush123 Deposit Amt : 1000 Total Balance : 11000
+My Withdrawl Transaction! Customer Info - Account Number: Sush123 Withdrawl Amt : 5000 Total Balance : 6000
+My Transfer Transaction! Customer Info - Account Number: Sush123 Transfer Amt : 3000 Total Balance : 7000
+My Transfer Transaction! Customer Info - Account Number: Vish456 Transfer Amt : 5000 Total Balance : 10000
